@@ -17,4 +17,4 @@ handout: $(SOURCE).md
 	    -o $(SOURCE)_handout.pdf
 
 clean:
-	rm *.pdf *.html ; $(MAKE) -C debate clean
+	rm *.pdf *.html
