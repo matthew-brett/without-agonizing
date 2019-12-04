@@ -14,6 +14,14 @@ bibliography: data-science-bib/data_science.bib
 
 With thanks to John Rauser: [Statistics Without the Agonizing Pain](https://www.youtube.com/watch?v=5Dnw46eC-0o)
 
+# What we need
+
+* Imagination.
+* Add, subtract, divide.
+* Some ping pong balls.
+* A pen.
+* A bucket.
+
 # Problem 1 - a biased jury?
 
 * Around 1962: Robert Swain - a black man - sentenced to death
