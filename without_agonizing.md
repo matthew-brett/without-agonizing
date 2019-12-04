@@ -24,7 +24,44 @@ With thanks to John Rauser: [Statistics Without the Agonizing Pain](https://www.
   basis that the jury selection was biased.
 * What do you think?
 
+# Problem 1 - with a computer
+
+<http://bit.ly/less-agony>
+
 # Problem 2 - do mosquitoes like beer?
 
 ![](images/mosquito_banner.png)
 
+# The setup
+
+![](images/mosquito_setup.png)
+
+# Problem 2
+
+What do you think?
+
+# Problem 2 - with a computer
+
+<http://bit.ly/less-agony>
+
+# Problem 3 - were rescuers democratic?
+
+![](images/oliner1988cover.jpg)
+
+# The numbers
+
+|           |Democratic|Other| Total |
+|:----------|---------:|----:|------:|
+| Bystander |         1|    6|     7 |
+| Rescuer   |        32|    8|    40 |
+| Total     |        33|   14|    47 |
+
+Some percentages.
+
+# Problem 3
+
+What do you think?
+
+# Problem 3 - with a computer
+
+<http://bit.ly/less-agony>
