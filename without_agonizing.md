@@ -24,6 +24,9 @@ With thanks to John Rauser: [Statistics Without the Agonizing Pain](https://www.
 
 # Problem 1 - a biased jury?
 
+Example inspired by [the Berkeley data science
+course](https://www.inferentialthinking.com), with thanks.
+
 * Around 1962: Robert Swain - a black man - sentenced to death
   by an all-white Jury in Talladega County, Alabama.
 * Of the eligible jurors in the county, 26% were black.
@@ -43,6 +46,14 @@ With thanks to John Rauser: [Statistics Without the Agonizing Pain](https://www.
 # The setup
 
 ![](images/mosquito_setup.png)
+
+# Beer and water numbers
+
+Mosquito numbers for beer drinkers:
+![](images/beer_balls.png)
+
+Mosquito numbers for water drinkers:
+![](images/water_balls.png)
 
 # Problem 2
 
